@@ -1,0 +1,14 @@
+.navBar{
+    font-family: 'Playfair Display', serif;
+    margin-top: 10px;
+}
+
+.navItem{
+    margin: 1.5rem;
+    font-size: 1.2rem;
+}
+
+.navItem:hover{
+    cursor: pointer;
+    color: orangered;
+}

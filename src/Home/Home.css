@@ -1,0 +1,61 @@
+.profileImg{
+    height: 200px;
+    width: 200px;
+    border-radius: 10rem;
+    margin-top: 5rem;
+  }
+  
+  .nameTag{
+    font-family: 'Dancing Script', cursive;
+    font-size: 3rem;
+    font-weight: lighter;
+    margin: 0;
+    margin-top: 20px;
+    margin-bottom: 15px;
+  }
+  
+  .desc{
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 2.5rem;
+    font-weight: lighter;
+    margin: 0;
+  }
+  
+  .midLine{
+    background-color: #61dafb;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 2px;
+    width: 95%;
+    border-radius: 10px;
+  }
+  
+  .about{
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 1rem;
+    font-weight: lighter;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 160px;
+    width: 95%;
+    text-align: justify;
+  }
+
+  .footer{
+    margin-bottom: 0;
+    margin-top: 75px;
+    height: 50px;
+  }
+
+  .footerText{
+    font-family: 'Dancing Script', cursive;
+  }
+
+  .copyright{
+    font-family: 'Playfair Display', serif;
+    font-size: smaller;
+    margin-top: 10px;
+  }
+  
