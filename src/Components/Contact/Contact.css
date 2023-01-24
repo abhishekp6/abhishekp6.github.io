@@ -1,0 +1,22 @@
+.headMessage{
+    height: 100px;
+    width: 100%;
+    line-height: 100px;
+    margin-top: 75px;
+    font-size: 2.5rem;
+    font-family: 'Cinzel', serif;
+}
+
+.handles{
+    height: 400px;
+    width: 100%;
+}
+
+.socials{
+    height: 100px;
+    width: 100px;
+}
+
+.socials:hover{
+    cursor: pointer;
+}

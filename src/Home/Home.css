@@ -6,7 +6,7 @@
   }
   
   .nameTag{
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Sacramento', cursive;
     font-size: 3rem;
     font-weight: lighter;
     margin: 0;
@@ -15,7 +15,7 @@
   }
   
   .desc{
-    font-family: 'IBM Plex Mono', monospace;
+    font-family: 'Cinzel', serif;
     font-size: 2.5rem;
     font-weight: lighter;
     margin: 0;
@@ -32,7 +32,7 @@
   }
   
   .about{
-    font-family: 'IBM Plex Mono', monospace;
+    font-family: 'Cinzel', serif;
     font-size: 1rem;
     font-weight: lighter;
     margin-top: 25px;
