@@ -32,14 +32,14 @@ const Home = () => {
 
                 Hello there, welcome to my space. 
 
-                I am 25 year young Software Engineer from India. I love developing/building/creating/improving.
-                Currently I am working with awesome folks at Lumiq.
+                I am a Software Engineer/Developer from India. I love developing/building/creating/improving/tinkering.
+                Currently I am building data products with awesome folks at Lumiq.
                 <br></br>
                 <br></br>
                 I have completed my undergrad in Computer Science from Jaypee Institute of Information Technology, Noida, India, in 2021.
                 <br></br>
                 <br></br>
-                I am a strong believer in building for humanity. I support the cause of quality education to each. I am a supporter of environmental sustainability.
+                I am a strong believer in building for humanity. I support cause of quality education to each. I am a supporter of environmental sustainability.
 
             </div>
 
