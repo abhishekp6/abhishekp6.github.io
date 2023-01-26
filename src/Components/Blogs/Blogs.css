@@ -1,12 +1,13 @@
 .article{
-    height: 200px;
+    height: fit-content;
     width: 80%;
     margin: auto;
     background-color: rgb(242, 242, 242);
     border-radius: 15px;
     padding: 15px;
     text-align: left;
-    padding-left: 40px;
+    padding-left: 2rem;
+    padding-top: 0.2rem;
 }
 
 .contianer{

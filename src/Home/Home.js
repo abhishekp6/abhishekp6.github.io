@@ -54,7 +54,7 @@ const Home = () => {
                     </div>
                 </div>
                 <div>
-                    <img src={footer} alt='footerImg'></img>
+                    <img className="footerImg" src={footer} alt='footerImg'></img>
                 </div>
             </div>
             

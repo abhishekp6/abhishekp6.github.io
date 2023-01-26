@@ -1,10 +1,13 @@
 .navBar{
     font-family: 'Playfair Display', serif;
     margin-top: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
 }
 
 .navItem{
-    margin: 1.5rem;
+    margin: 0.8rem;
     font-size: 1.2rem;
 }
 
