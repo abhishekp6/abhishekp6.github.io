@@ -40,6 +40,9 @@ const Home = () => {
                 <br></br>
                 <br></br>
                 I am a strong believer in building for humanity. I support cause of quality education to each. I am a supporter of environmental sustainability.
+                <br></br>
+                <br></br>
+                Feel free to connect with me through contact section. I am always excited to connect/learn/build with like minded folks.
 
             </div>
 
