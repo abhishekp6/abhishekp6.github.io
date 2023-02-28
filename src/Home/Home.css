@@ -63,4 +63,12 @@
   .footerImg{
     width: 50%;
   }
+
+  .textHighlight{
+    color: orangered;
+  }
+
+  .textHighlight:hover{
+    cursor: pointer;
+  }
   
