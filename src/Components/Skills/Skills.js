@@ -26,7 +26,7 @@ const Skills = () => {
                 <img alt="skillImg" src={reactlogo} style={{height: 150, width:'7rem'}}></img>
                 <div className="skillName">ReactJs
                 <br></br>
-                >2,000 Lines of Code
+                >5,000 Lines of Code
                 </div>
             </div>
 
@@ -82,7 +82,7 @@ const Skills = () => {
                 <img alt="skillImg" src={aws}style={{height: 100, width:'6rem', padding:20, marginTop:25, marginBottom:25}}></img>
                 <div className="skillName">AWS
                 <br></br>
-                AWS Cloud Practitioner Certified 2022
+                AWS Certified Developer Associate 2023
                 </div>
             </div>
 
